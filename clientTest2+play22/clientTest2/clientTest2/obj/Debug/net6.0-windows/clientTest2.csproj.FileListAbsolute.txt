@@ -1,0 +1,123 @@
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.exe
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.deps.json
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.runtimeconfig.json
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.dll
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.pdb
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.AssemblyReference.cache
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Form1.resources
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.welcomePage.resources
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.GenerateResource.cache
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfoInputs.cache
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfo.cs
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.CoreCompileInputs.cache
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.dll
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\refint\clientTest2.dll
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.pdb
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.genruntimeconfig.cache
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\ref\clientTest2.dll
+C:\Users\mohamed kadry\source\repos\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.RoomCreation.resources
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Form1.resources
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.RoomCreation.resources
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.welcomePage.resources
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.dll
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\refint\clientTest2.dll
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.pdb
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.exe
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.deps.json
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.runtimeconfig.json
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.dll
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.pdb
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.genruntimeconfig.cache
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\ref\clientTest2.dll
+C:\Users\Dell\Desktop\guess-nam-game\clientTest2\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.room.resources
+D:\clientTest2+join\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.exe
+D:\clientTest2+join\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.deps.json
+D:\clientTest2+join\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.runtimeconfig.json
+D:\clientTest2+join\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.dll
+D:\clientTest2+join\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.pdb
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.AssemblyReference.cache
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Form1.resources
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.room.resources
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.RoomCreation.resources
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.welcomePage.resources
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.GenerateResource.cache
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfoInputs.cache
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfo.cs
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.CoreCompileInputs.cache
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.dll
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\refint\clientTest2.dll
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.pdb
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.genruntimeconfig.cache
+D:\clientTest2+join\clientTest2\clientTest2\obj\Debug\net6.0-windows\ref\clientTest2.dll
+D:\clientTest2+join21\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.exe
+D:\clientTest2+join21\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.deps.json
+D:\clientTest2+join21\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.runtimeconfig.json
+D:\clientTest2+join21\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.dll
+D:\clientTest2+join21\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.pdb
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.AssemblyReference.cache
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Form1.resources
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.RoomCreation.resources
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.welcomePage.resources
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.GenerateResource.cache
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfoInputs.cache
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfo.cs
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.CoreCompileInputs.cache
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.dll
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\refint\clientTest2.dll
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.pdb
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.genruntimeconfig.cache
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\ref\clientTest2.dll
+D:\clientTest2+join21\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Game.resources
+D:\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.exe
+D:\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.deps.json
+D:\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.runtimeconfig.json
+D:\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.dll
+D:\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.pdb
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.AssemblyReference.cache
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Form1.resources
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Game.resources
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.RoomCreation.resources
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.welcomePage.resources
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.GenerateResource.cache
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfoInputs.cache
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfo.cs
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.CoreCompileInputs.cache
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.dll
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\refint\clientTest2.dll
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.pdb
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.genruntimeconfig.cache
+D:\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\ref\clientTest2.dll
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.exe
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.deps.json
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.runtimeconfig.json
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.dll
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\clientTest2.pdb
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Form1.resources
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Game.resources
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.Properties.Resources.resources
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.RoomCreation.resources
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.welcomePage.resources
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.csproj.CopyComplete
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.dll
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\refint\clientTest2.dll
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.pdb
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\clientTest2.genruntimeconfig.cache
+C:\Users\hp\Desktop\Project final 23, 9pm\clientTest2+play22\clientTest2\clientTest2\obj\Debug\net6.0-windows\ref\clientTest2.dll

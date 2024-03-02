@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "laV5r9bHUJ9IMkRfjup2Imj2M2YpQ9N5wGTniuOlndJSpAeaMxjhy96xdtIvmwD3X/XuNxKNbdFCAaU9cUBO3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Project final 23, 9pm\\clientTest2+play22\\clientTest2\\clientTest2\\clientTest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
