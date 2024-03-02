@@ -1,0 +1,87 @@
+C:\Users\mohamed kadry\source\repos\servertest\servertest\bin\Debug\net6.0-windows\servertest.exe
+C:\Users\mohamed kadry\source\repos\servertest\servertest\bin\Debug\net6.0-windows\servertest.deps.json
+C:\Users\mohamed kadry\source\repos\servertest\servertest\bin\Debug\net6.0-windows\servertest.runtimeconfig.json
+C:\Users\mohamed kadry\source\repos\servertest\servertest\bin\Debug\net6.0-windows\servertest.dll
+C:\Users\mohamed kadry\source\repos\servertest\servertest\bin\Debug\net6.0-windows\servertest.pdb
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.AssemblyReference.cache
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.Form1.resources
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.GenerateResource.cache
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfoInputs.cache
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfo.cs
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.CoreCompileInputs.cache
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.dll
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\refint\servertest.dll
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.pdb
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\servertest.genruntimeconfig.cache
+C:\Users\mohamed kadry\source\repos\servertest\servertest\obj\Debug\net6.0-windows\ref\servertest.dll
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\bin\Debug\net6.0-windows\servertest.exe
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\bin\Debug\net6.0-windows\servertest.deps.json
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\bin\Debug\net6.0-windows\servertest.runtimeconfig.json
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\bin\Debug\net6.0-windows\servertest.dll
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\bin\Debug\net6.0-windows\servertest.pdb
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.Form1.resources
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfo.cs
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.dll
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\refint\servertest.dll
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.pdb
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\servertest.genruntimeconfig.cache
+C:\Users\Dell\Desktop\guess-nam-game\servertest\servertest\servertest\obj\Debug\net6.0-windows\ref\servertest.dll
+D:\servertest+join\servertest\servertest\bin\Debug\net6.0-windows\servertest.exe
+D:\servertest+join\servertest\servertest\bin\Debug\net6.0-windows\servertest.deps.json
+D:\servertest+join\servertest\servertest\bin\Debug\net6.0-windows\servertest.runtimeconfig.json
+D:\servertest+join\servertest\servertest\bin\Debug\net6.0-windows\servertest.dll
+D:\servertest+join\servertest\servertest\bin\Debug\net6.0-windows\servertest.pdb
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.AssemblyReference.cache
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.Form1.resources
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.GenerateResource.cache
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.GeneratedMSBuildEditorConfig.editorconfig
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfoInputs.cache
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfo.cs
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.CoreCompileInputs.cache
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.dll
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\refint\servertest.dll
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.pdb
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\servertest.genruntimeconfig.cache
+D:\servertest+join\servertest\servertest\obj\Debug\net6.0-windows\ref\servertest.dll
+D:\servertest+join21\servertest\servertest\bin\Debug\net6.0-windows\servertest.exe
+D:\servertest+join21\servertest\servertest\bin\Debug\net6.0-windows\servertest.deps.json
+D:\servertest+join21\servertest\servertest\bin\Debug\net6.0-windows\servertest.runtimeconfig.json
+D:\servertest+join21\servertest\servertest\bin\Debug\net6.0-windows\servertest.dll
+D:\servertest+join21\servertest\servertest\bin\Debug\net6.0-windows\servertest.pdb
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.AssemblyReference.cache
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.Form1.resources
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.GenerateResource.cache
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.GeneratedMSBuildEditorConfig.editorconfig
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfoInputs.cache
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfo.cs
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.CoreCompileInputs.cache
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.dll
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\refint\servertest.dll
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.pdb
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\servertest.genruntimeconfig.cache
+D:\servertest+join21\servertest\servertest\obj\Debug\net6.0-windows\ref\servertest.dll
+D:\servertest+join21\servertest\servertest\bin\Debug\net6.0-windows\words.txt
+D:\servertest+play22\servertest\servertest\bin\Debug\net6.0-windows\words.txt
+D:\servertest+play22\servertest\servertest\bin\Debug\net6.0-windows\servertest.exe
+D:\servertest+play22\servertest\servertest\bin\Debug\net6.0-windows\servertest.deps.json
+D:\servertest+play22\servertest\servertest\bin\Debug\net6.0-windows\servertest.runtimeconfig.json
+D:\servertest+play22\servertest\servertest\bin\Debug\net6.0-windows\servertest.dll
+D:\servertest+play22\servertest\servertest\bin\Debug\net6.0-windows\servertest.pdb
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.AssemblyReference.cache
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.Form1.resources
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.GenerateResource.cache
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.GeneratedMSBuildEditorConfig.editorconfig
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfoInputs.cache
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.AssemblyInfo.cs
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.csproj.CoreCompileInputs.cache
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.dll
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\refint\servertest.dll
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.pdb
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\servertest.genruntimeconfig.cache
+D:\servertest+play22\servertest\servertest\obj\Debug\net6.0-windows\ref\servertest.dll
+D:\servertest+play22\servertest\servertest\bin\Debug\net6.0-windows\score.txt
